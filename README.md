@@ -1,8 +1,9 @@
 # Poké-MongoDB
 
 Poké-Mongo is a web-based app where you can create, view, update and delete pokemons from
-a set composed of the first 151 original pokemons.
+a set composed of the first original 151 pokemons.
 Interacting with the cards available, you can access the official information about each pokemon.
+
 
 ## Contribution
 
